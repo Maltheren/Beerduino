@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BC56-12GWA")(type "KiCad")(uri "${KIPRJMOD}/Display/BC56-12GWA.kicad_sym")(options "")(descr ""))
+)
